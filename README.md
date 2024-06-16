@@ -5,4 +5,6 @@ The dataset includes information about reservation status, that covers whether a
 
 The data set was downloaded from Kaggle (https://www.kaggle.com/datasets/thedevastator/hotel-bookings-analysis).
 
-With this project I wanted to perform some analysis and develop my skills in Machine Learning (Supervised and Unsupervised models) using Python.
+With this project I wanted to perform some analysis and develop my skills in Machine Learning (Supervised and Unsupervised models) using Python, also I continuing developing my skills in Tableau and created a Story with the analysis about the cancelations.
+
+
